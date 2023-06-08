@@ -14,7 +14,7 @@ export default function Home() {
   const addUser = (e) => {
     e.preventDefault()
     console.log("Enviar dados")
-    console.log(data)
+    console.log(data)//Chama função
   }
   return (
     <>
