@@ -34,6 +34,7 @@ export default function Home() {
           <label>Email:</label>
           <input type='email' name='email' placeholder='Digite o email' onChange={valueInput} /><br/><br/>
           <button type='submit' >Enviar</button><br/><br/>
+          <button type='submit' >Enviar</button><br/><br/>
         </form>
 
       </main>
