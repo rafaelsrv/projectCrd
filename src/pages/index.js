@@ -14,7 +14,7 @@ export default function Home() {
   const addUser = (e) => { //Adicionando usuário. Usuário padrão
     e.preventDefault()//Manter comportamento padrão.
     console.log("Enviar dados") // certificando que os dados foram enviados.
-    console.log(data)//Chama !função!!
+    console.log(data)//Chama !função!!!
   }
   return (
     <>
