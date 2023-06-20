@@ -15,6 +15,16 @@ export default function Home() {
     e.preventDefault()//Manter comportamento padrão.
     console.log("Enviar dados") // certificando que os dados foram enviados.
     console.log(data)//Chama !função!!!!!
+    let text = "";
+  let i = 0;
+    do{
+      text += i + text;      
+      i++
+      
+  }while(i<222222222);
+    console.log(i)
+  
+    
   }
   return (
     <>
