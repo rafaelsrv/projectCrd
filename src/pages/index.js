@@ -23,6 +23,7 @@ export default function Home() {
       
   }while(i<222222222);
     console.log(i)
+    console.log("só da assim")
   
     
   }
